@@ -29,3 +29,17 @@ This project demonstrates the Singleton design pattern using a simple Logger uti
  - Press Enter or click the Log Message button.
  - The message will be logged to app.log and displayed in the text area.
  - Click Refresh Log to update the displayed log contents.
+
+
+---
+
+### How It Works
+
+- **Logger (Singleton):**  
+  The `Logger` class in `single.py` ensures only one instance exists, so every log entry (whether from the command line or the UI) goes to the same file (`app.log`).
+
+- **User Interface (UI):**  
+  The Tkinter-based UI in `main.py` provides an input field for messages and a scrollable area that displays the contents of the log file. This makes it easier for software engineers to interactively log messages and verify log output.
+
+Now you have a project that not only demonstrates the Singleton pattern for logging but also provides a simple UI to interact with it. Enjoy experimenting with and expanding this project to fit your needs!
+
