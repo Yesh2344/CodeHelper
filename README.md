@@ -43,5 +43,4 @@ This project demonstrates the Singleton design pattern using a simple Logger uti
 
 Now you have a project that not only demonstrates the Singleton pattern for logging but also provides a simple UI to interact with it. Enjoy experimenting with and expanding this project to fit your needs!
 
-Email:
-
+Email: yeswanthsoma83@gmail.com
