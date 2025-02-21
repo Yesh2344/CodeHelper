@@ -45,4 +45,5 @@ Now you have a project that not only demonstrates the Singleton pattern for logg
 
 Email: yeswanthsoma83@gmail.com
 
-@YeswanthSoma
+@YeswanthSoma All Copyrights Reserved
+ 
